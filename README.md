@@ -1,1 +1,1 @@
-# personal-assignment-jeonggu
+## 21조 강정구 개인과제 리포지토리
